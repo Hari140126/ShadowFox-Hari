@@ -20,7 +20,7 @@ This repository contains the work I completed during a 1-month virtual Data Scie
 
 ## 📊 Intermediate Level
 
-**Dataset:** [Google Drive Dataset](https://drive.google.com/drive/folders/1Bjn2YEmafyYckkJAwsOSqngpEMGWyIXc?usp=drive_link)  
+**Dataset:** [AQI Analysis Dataset](https://drive.google.com/drive/folders/1Bjn2YEmafyYckkJAwsOSqngpEMGWyIXc?usp=drive_link)  
 **Tools:** Python, Pandas, Seaborn, Matplotlib  
 
 ### Tasks:
@@ -29,7 +29,7 @@ This repository contains the work I completed during a 1-month virtual Data Scie
 - Explained key trends and patterns using markdown in Jupyter Notebook
 
 📁 Folder: `Intermediate_level/`
-🔗 [Click to view aqi_analysis](Intermediate_level/aqi_analysis.ipynb)
+🔗 [aqi_analysis](Intermediate_level/aqi_analysis.ipynb)
 
 ---
 
@@ -45,7 +45,7 @@ This repository contains the work I completed during a 1-month virtual Data Scie
 - Summarized insights and conclusions in a well-documented notebook
 
 📁 Folder: `Advanced_level/`  
-🔗 [Click to view spotify_analysis](Advanced_level/spotify_analysis.ipynb)
+🔗 [spotify_analysis](Advanced_level/spotify_analysis.ipynb)
 
 ---
 
@@ -60,10 +60,10 @@ This repository contains the work I completed during a 1-month virtual Data Scie
 
 ## 📄 Certificate
 
-[Link to certificate – if available]
+[Link to certificate]
 
 ---
 
 ## 🔗 LinkedIn Post 
 
-[[Link to your post about the internship]](https://www.linkedin.com/posts/harihara-alagappan-venkatachalam-01115a349_offer-letter-activity-7334516147263877121-SnhH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFcNtI0BeRxVY-x2sJxj1Jq058CdjfSxPPk)
+[[post about the internship]](https://www.linkedin.com/posts/harihara-alagappan-venkatachalam-01115a349_offer-letter-activity-7334516147263877121-SnhH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFcNtI0BeRxVY-x2sJxj1Jq058CdjfSxPPk)
