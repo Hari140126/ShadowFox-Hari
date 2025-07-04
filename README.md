@@ -60,7 +60,7 @@ This repository contains the work I completed during a 1-month virtual Data Scie
 
 ## 📄 Certificate
 
-[Link to certificate]
+[[Link to certificate]](https://github.com/Hari140126/ShadowFox-Hari/blob/main/Certificate)
 
 ---
 
